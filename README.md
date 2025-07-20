@@ -2,7 +2,13 @@
 
 [[Paper]](https://www.arxiv.org/abs/)
 
-
+<table align="center" width="100%" border="0" cellpadding="0" cellspacing="0" style="background-color:#ffffff; padding:20px;">
+  <tr>
+    <td align="center">
+      <img src="assets/teaser.png" alt="TransMamba Teaser" width="800">
+    </td>
+  </tr>
+</table>
 
 This is the homepage for the code release for the preprint "TransMamba: Fast Universal Architecture Adaption from Transformers to Mamba"
 
