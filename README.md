@@ -16,7 +16,7 @@
     <a href="https://transmamba.github.io/" target="_blank">Xiaodan Liang</a>
   </p>
   <p align="center">
-    <a href="https://www.arxiv.org/abs/2506.17218">
+    <a href="https://arxiv.org/pdf/2502.15130">
       <img src='https://img.shields.io/badge/Paper-PDF-red?style=flat&logo=arXiv&logoColor=red' alt='Paper PDF'>
     </a>
     <a href='https://transmamba.github.io/' style='padding-left: 0.5rem;'>
