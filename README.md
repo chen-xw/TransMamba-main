@@ -73,7 +73,7 @@ conda activate transmamba-imagenet
 
 git clone https://github.com/chen-xw/TransMamba-main.git
 cd TransMamba-main
-pip install -r requirements_imagenet.txt
+pip install -r requirements.txt
 pip install -e causal_conv1d>=1.1.0
 pip install -e mamba-1p1p1
 ```
@@ -84,8 +84,8 @@ conda create -n transmamba-llava python=3.10
 conda activate transmamba-llava
 
 git clone https://github.com/chen-xw/TransMamba-main.git
-cd TransMamba-main
-pip install -r requirements_llava.txt
+cd TransMamba-main/VQA
+pip install -r requirements.txt
 ```
 
 ## Data Preparation
