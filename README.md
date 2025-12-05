@@ -29,7 +29,7 @@
 We propose a two-stage framework (TransMamba) to accelerate the training of Mamba-based models, ensuring their effectiveness across both uni-modal and multi-modal tasks.
 
 <p align="center">
-    <img src="asset/teaser.png" alt="Logo" width="190%">
+    <img src="assets/teaser.png" alt="Logo" width="190%">
 </p>
 
 <br>
