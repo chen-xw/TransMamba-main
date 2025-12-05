@@ -16,10 +16,10 @@
     <a href="https://transmamba.github.io/" target="_blank">Xiaodan Liang</a>
   </p>
   <p align="center">
-    <a href="[https://www.arxiv.org/abs/2506.17218](https://arxiv.org/pdf/2502.15130)">
+    <a href="[https://www.arxiv.org/abs/2506.17218](https://www.arxiv.org/abs/2506.17218)">
       <img src='https://img.shields.io/badge/Paper-PDF-red?style=flat&logo=arXiv&logoColor=red' alt='Paper PDF'>
     </a>
-    <a href='https://github.com/chen-xw/TransMamba-main' style='padding-left: 0.5rem;'>
+    <a href='https://transmamba.github.io/' style='padding-left: 0.5rem;'>
       <img src='https://img.shields.io/badge/Project-Page-blue?style=flat&logo=Google%20chrome&logoColor=blue' alt='Project Page'>
     </a>
   </p>
@@ -60,9 +60,9 @@ We propose a two-stage framework (TransMamba) to accelerate the training of Mamb
 </details>
 
 ## News
-- [2025-12-05] We have released our code.
-- [2025-10-09] We have released our updated paper.
-- [2025-02-11] We have released the paper!
+- [2025-12-05] We have released our code. 🔦
+- [2025-10-09] We have released our updated paper. 💥
+- [2025-02-11] We have released the paper! 💥
 
 ## Installation
 Create a conda environment and install the required packages:
