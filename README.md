@@ -61,8 +61,7 @@ We propose a two-stage framework (TransMamba) to accelerate the training of Mamb
 
 ## News
 - [2025-12-05] We have released our code. 🔦
-- [2025-10-09] We have released our updated paper. 💥
-- [2025-02-11] We have released the paper! 💥
+- [2025-02-11] Our paper is now accessible at [https://arxiv.org/pdf/2502.15130](https://arxiv.org/pdf/2502.15130)! 
 
 ## Installation
 Create a conda environment and install the required packages:
